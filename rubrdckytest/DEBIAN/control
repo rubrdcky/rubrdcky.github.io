@@ -1,0 +1,9 @@
+Package: com.rubrdcky.rubrdckytest
+Name: rubrdcky test
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A test package for me!
+Maintainer: Jacob Warren
+Author: Jacob Warren
+Section: Themes
