@@ -1,2 +1,3 @@
-dpkg-deb -b Package
-dpkg-deb -b rubrdckytest
+#!/bin/bash
+dpkg-deb -bZgzip projects/Package debs
+dpkg-deb -bZgzip projects/rubrdckytest debs
