@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Jacob Warren
 Depends: mobilesubstrate
 Filename: ./debs//com.rubrdcky.rubrdckytest_1.0_iphoneos-arm.deb
-Size: 2460
-MD5sum: c9273b8f827480b7f66c139c1fee2ed5
-SHA1: ac2aff12d0e05b017471c5489174995534d4bcb5
-SHA256: 0539c8899862deffb798c563327376469e9f7c2a0a7d660d5bc00b522808a56c
+Size: 2128
+MD5sum: 48e69cfe85dd63b38831752724b1db73
+SHA1: 10f98c2f72e72e3b6da15b66ddc60ff422f8b731
+SHA256: 674f51c9dc719afd204f93e2687da4872025fe110775197fc9e3e6b70814c5ef
 Section: Themes
 Description: A test package for me!
 Author: Jacob Warren
@@ -19,9 +19,9 @@ Architecture: iphoneos-arm
 Maintainer: rubrdcky
 Filename: ./debs//net.winneonsword.package_1.0_iphoneos-arm.deb
 Size: 1710
-MD5sum: dcbe4032f0af9c034f2b3d593fcb6e30
-SHA1: 4484b581cc9e507bfd8afd0b123311947b1038f9
-SHA256: 68fff01945cd1cca96f68269a96ecee3766bd826d1afae04acdfaeb93bbb8eb9
+MD5sum: 1a6bc1afdd02f80ab0b603264b8f6209
+SHA1: b122c318ba42838285ced768558d1155de2b8e86
+SHA256: 9e250f24b52643d6cb8418a8fc9d46975f921a1b9d170a0fc198d1f4fcc5df84
 Section: Themes
 Homepage: http://rubrdcky.github.com/repo
 Description: This is a test package from /u/WinneonSword's tutorial repository!
