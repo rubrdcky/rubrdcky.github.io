@@ -21,9 +21,9 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs//com.rubrdcky.rubrdckytest_1.0.2_iphoneos-arm.deb
 Size: 1846
-MD5sum: 3cfbde8ec7a19be2fad56f51d880f00b
-SHA1: ada3a50cd8581606ba6db90de2f0d89242d0c95e
-SHA256: e9b83cb9d63ab0390ecddd9082cdda650d85bdf16abe92bcb56a29fc007c5020
+MD5sum: 939d87a7f5995f18ccac9f8435ac796a
+SHA1: 284441b35a0a8e43dab55d03b14e88c1f9547997
+SHA256: ff1191715595a9fb63935a353ebb7edb2b717783e398967a1c2ac33bccbf88d7
 Section: Themes
 Description: A test package for testing!
 Author: Jacob Warren
@@ -36,10 +36,10 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayresping_1.0_iphoneos-arm.deb
-Size: 9666
-MD5sum: bc830ce40286f585fae02601b241a10e
-SHA1: caa702a40ee977af7d90884289d576704cce511a
-SHA256: bc2f51b5c8e664ea5a61eb5e3d6f5d8cc8f28d7f4be65bc687500d749db5874b
+Size: 9138
+MD5sum: bb00bfb18a210e02e43616715f351f74
+SHA1: 98c98f266f7df61521ad66e816723fa49fdc6546
+SHA256: fa89723356287c2ef8b882f752cc92ef421f30d24aea5385f4f261c5c665505b
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
@@ -51,9 +51,9 @@ Architecture: iphoneos-arm
 Maintainer: rubrdcky
 Filename: ./debs//net.winneonsword.package_1.0_iphoneos-arm.deb
 Size: 1640
-MD5sum: 2875c57308607a6af76dcda3a4cccafe
-SHA1: bd5e3cc5bb67f8fd865f764341b5b6698c98e4dc
-SHA256: 38d3edd07ba9e324d624ca73bd30b81928e7fe3a1ca01aa2b72d47b459ba824d
+MD5sum: f8aef40cc1cd28c3c19886634394deb5
+SHA1: 7e1b4db09bfb88aefd5b856d9e2da2b6ff45d63e
+SHA256: a2e321a09967c184dca79837c15a8d541847a440091ccba0ab88e6b7dddf3585
 Section: Themes
 Homepage: http://rubrdcky.github.com/repo
 Description: This is a test package from /u/WinneonSword's tutorial repository!
