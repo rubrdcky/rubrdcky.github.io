@@ -1,13 +1,29 @@
+Package: com.rubrdcky.blackwelcome
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jacob Warren <jwarren4881@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Recommends: winterboard
+Filename: ./debs//com.rubrdcky.blackwelcome_1.0_iphoneos-arm.deb
+Size: 89752
+MD5sum: b19442a10a0d2ed1295f01460b3d6cf7
+SHA1: da6981fa76bc77d11ce26ebd81be03c9cb8d6991
+SHA256: 02cde98b8b0720daa21c9ca4872d9267bd0ab0c68dd29189a5d28a8b18246d41
+Section: Themes
+Description: A full screen Black Welcome
+Author: Jacob Warren
+Name: Black Welcome Respring Logo
+
 Package: com.rubrdcky.rubrdckytest
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs//com.rubrdcky.rubrdckytest_1.0.2_iphoneos-arm.deb
-Size: 1820
-MD5sum: 08b0079bb1557079fa2499fbe781831e
-SHA1: 4e0adacbc3e43bc4f47833d556afe4b31c6a1d30
-SHA256: 816a0b71bab04b1de7e8d6f5f6071c8827be75c33d91923f5120c1a519fb9953
+Size: 1846
+MD5sum: 3cfbde8ec7a19be2fad56f51d880f00b
+SHA1: ada3a50cd8581606ba6db90de2f0d89242d0c95e
+SHA256: e9b83cb9d63ab0390ecddd9082cdda650d85bdf16abe92bcb56a29fc007c5020
 Section: Themes
 Description: A test package for testing!
 Author: Jacob Warren
@@ -19,11 +35,11 @@ Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
-Filename: ./debs//SpaceGrayRespring.deb
-Size: 9134
-MD5sum: 687c29d573f7998aea74eafbff20571e
-SHA1: ecdbf3de117de6d57378e8b7a99b5d2f929cde9e
-SHA256: 8e18a9f6ad992f63d377dcd5d865eef2c61dee2a5e80a9bb3ef2c3b5c11c2a2f
+Filename: ./debs//com.rubrdcky.spacegrayresping_1.0_iphoneos-arm.deb
+Size: 9666
+MD5sum: bc830ce40286f585fae02601b241a10e
+SHA1: caa702a40ee977af7d90884289d576704cce511a
+SHA256: bc2f51b5c8e664ea5a61eb5e3d6f5d8cc8f28d7f4be65bc687500d749db5874b
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
@@ -35,9 +51,9 @@ Architecture: iphoneos-arm
 Maintainer: rubrdcky
 Filename: ./debs//net.winneonsword.package_1.0_iphoneos-arm.deb
 Size: 1640
-MD5sum: 190dcd6e3f07be7eb66eaca9e95527ad
-SHA1: 6f0d52eebce285a8e21ca71a84b8cfdc76db9885
-SHA256: dc5a45f0fc5258c2f0dc8ee96e63fe231ec649dbac6d7e6f502d834dfbb91af3
+MD5sum: 2875c57308607a6af76dcda3a4cccafe
+SHA1: bd5e3cc5bb67f8fd865f764341b5b6698c98e4dc
+SHA256: 38d3edd07ba9e324d624ca73bd30b81928e7fe3a1ca01aa2b72d47b459ba824d
 Section: Themes
 Homepage: http://rubrdcky.github.com/repo
 Description: This is a test package from /u/WinneonSword's tutorial repository!

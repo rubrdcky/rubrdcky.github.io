@@ -1,0 +1,10 @@
+Package: com.rubrdcky.blackwelcome
+Name: Black Welcome Respring Logo
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Recommends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A full screen Black Welcome
+Maintainer: Jacob Warren <jwarren4881@gmail.com>
+Author: Jacob Warren
+Section: Themes
