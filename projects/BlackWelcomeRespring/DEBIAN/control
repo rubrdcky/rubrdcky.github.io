@@ -5,7 +5,6 @@ Recommends: winterboard
 Version: 1.1
 Architecture: iphoneos-arm
 Description: A full screen Black Welcome respring logo
-Recent Changes: Added i6 sizes
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Author: Jacob Warren <jwarren4881@gmail.com>
 Section: Themes
