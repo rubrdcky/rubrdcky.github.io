@@ -1,0 +1,9 @@
+Package: com.rubrdcky.nodockbackground
+Name: NoDockBackground
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A Simple tweak to remove the dock background
+Maintainer: Jacob Warren
+Author: Jacob Warren <jwarren4881@gmail.com>
+Section: Tweaks
