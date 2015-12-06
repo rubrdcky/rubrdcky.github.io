@@ -14,21 +14,6 @@ Description: A full screen Black Welcome respring logo
 Author: Jacob Warren <jwarren4881@gmail.com>
 Name: Black Welcome Respring Logo
 
-Package: com.rubrdcky.rubrdckytest
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: Jacob Warren <jwarren4881@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs//com.rubrdcky.rubrdckytest_1.0.2_iphoneos-arm.deb
-Size: 1846
-MD5sum: 7190da37a0ee3473e3542a0fa9af3f6b
-SHA1: edefbec5c9bf040e2d8d028ba9f67183eb906012
-SHA256: 4ae97f89ff6a69970b8fe594ae966db2e33e4d10d3afbb05112597f631a33d50
-Section: Themes
-Description: A test package for testing!
-Author: Jacob Warren
-Name: rubrdcky test
-
 Package: com.rubrdcky.spacegrayresping
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -44,20 +29,3 @@ Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
 Name: Space Gray Respring Logo
-
-Package: net.winneonsword.package
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: rubrdcky
-Filename: ./debs//net.winneonsword.package_1.0_iphoneos-arm.deb
-Size: 1640
-MD5sum: ed3c80c2717c0fed8872ec574c089905
-SHA1: 520cdddd46d5193bba5b5d4585557f194d46a873
-SHA256: d2ff967c8fc72b284c539862467444f20752eab20f6b16f244c53f829980b4b8
-Section: Themes
-Homepage: http://rubrdcky.github.com/repo
-Description: This is a test package from /u/WinneonSword's tutorial repository!
-Author: rubrdcky
-Depiction: http://repo.winneonsword.net/packages/package.html
-Name: Test Package
-
