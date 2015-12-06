@@ -2,7 +2,7 @@ Package: com.rubrdcky.spacegrayresping
 Name: Space Gray Respring Logo
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Description: A full screen Space Gray respring logo
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
