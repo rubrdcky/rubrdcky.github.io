@@ -1,18 +1,18 @@
-Package: com.rubrdcky.blackwelcome
-Version: 1.1
+Package: com.rubrdcky.bigapple
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
-Filename: ./debs//com.rubrdcky.blackwelcome_1.1_iphoneos-arm.deb
-Size: 156306
-MD5sum: 327c4c0bc781fbae26aad8e062b94e18
-SHA1: fd5b9dedb3e26e8b563da62f37f587e43d21f491
-SHA256: ef14ccaa4826d7bbf2d263dd37bc331f05c602f5cdb26a78acc412b01fc20a86
+Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
+Size: 22134
+MD5sum: c9653b4c15b5d9fd3217941274927ceb
+SHA1: 150dd85d7711ae21fc22b6fd3ddcf908728941da
+SHA256: bc34967069099c3035ad4e534958cd91d3404ba5987d2c99d05ce8e6ec1e7b09
 Section: Themes
-Description: A full screen Black Welcome respring logo
-Author: Jacob Warren <jwarren4881@gmail.com>
-Name: Black Welcome Respring Logo
+Description: A full screen BIG Apple Respring Logo
+Author: Jacob Warren
+Name: Big Apple Respring Logo
 
 Package: com.rubrdcky.spacegrayresping
 Version: 1.0.1
@@ -25,6 +25,22 @@ Size: 8512
 MD5sum: 10144169eadf065644999aa50e85a9d2
 SHA1: 189c9fb2c924e68fe34b4abdc95e9d3815bb9e36
 SHA256: 62c4053198f54ae92b9c07f1a09425027e213f824277c4814c80c977f234738f
+Section: Themes
+Description: A full screen Space Gray respring logo
+Author: Jacob Warren
+Name: Space Gray Respring Logo
+
+Package: com.rubrdcky.spacegrayrespring
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Jacob Warren <jwarren4881@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Recommends: winterboard
+Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
+Size: 10068
+MD5sum: 876aae55f4ee57bccf4d407cb0781e0c
+SHA1: 504056242cbf46922bc5cf132f2a2daded2eb2f8
+SHA256: 93407314fef2dac237a61ac767ca672c86008ca5f997c53dbfe4d1804f19e1a3
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
