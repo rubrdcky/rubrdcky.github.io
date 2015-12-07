@@ -14,22 +14,6 @@ Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
 Name: Big Apple Respring Logo
 
-Package: com.rubrdcky.spacegrayresping
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Jacob Warren <jwarren4881@gmail.com>
-Depends: mobilesubstrate, com.anemonetheming.anemone
-Recommends: winterboard
-Filename: ./debs//com.rubrdcky.spacegrayresping_1.0.1_iphoneos-arm.deb
-Size: 8512
-MD5sum: 10144169eadf065644999aa50e85a9d2
-SHA1: 189c9fb2c924e68fe34b4abdc95e9d3815bb9e36
-SHA256: 62c4053198f54ae92b9c07f1a09425027e213f824277c4814c80c977f234738f
-Section: Themes
-Description: A full screen Space Gray respring logo
-Author: Jacob Warren
-Name: Space Gray Respring Logo
-
 Package: com.rubrdcky.spacegrayrespring
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -45,4 +29,3 @@ Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
 Name: Space Gray Respring Logo
-
