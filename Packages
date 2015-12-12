@@ -6,9 +6,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
 Size: 21726
-MD5sum: e35714550544802e705bbf461b05fb33
-SHA1: 9450d5fb3caf522b194db22ad484f626674fed5f
-SHA256: 3308f94205f02854be2e652aaeb176684a93067ab61b81cc06e2ad0b81513012
+MD5sum: e1f0f21d668b698c1d1b588714de46bf
+SHA1: aa3f7cebc6bedc56d7040ccf07e91641c9f5406f
+SHA256: dd8091fd4d34b0b7c213ec13bc9fdd56a8847f54411c373c4e8d313068c24fbd
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
@@ -22,13 +22,29 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.c8statusbar_1.0_iphoneos-arm.deb
 Size: 27962
-MD5sum: 8c825932182d7239cc14052ca2866fed
-SHA1: 451070a07537fc628079bdc3b82600d418e9e432
-SHA256: 6446f23c1a9020aefbfb3bfb737917479e94db1ae6d39df31fee75a58193a3cf
+MD5sum: 27a076cb19c7cdc5ea44b584c99a1de2
+SHA1: 0b035d5c6e669ad18344ca5d10e5aca8c41cc6ac
+SHA256: cd7b7187af30def7cd303df9a74d1b23e9a85877727a42f3bb0e098154014c8e
 Section: Themes
 Description: An animated loader of two bouncing balls
 Author: Jacob Warren
 Name: C8 StatusBar Loader
+
+Package: com.rubrdcky.circle8
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jacob Warren <jwarren4881@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Recommends: winterboard
+Filename: ./debs//com.rubrdcky.circle8_1.0_iphoneos-arm.deb
+Size: 33178
+MD5sum: a018c97a4b3fbca6c8116ba241b5456f
+SHA1: ffc4289305114bd41316cf8c1d8b8fff71c08270
+SHA256: 4b84c0ced5949e60a7ea9afa693e08ba96397d17b2a27d90625eb37b3edf0ca0
+Section: Themes
+Description: A Circle 8 Themed battery
+Author: Jacob Warren
+Name: Cirle 8 Battery
 
 Package: com.rubrdcky.spacegrayrespring
 Version: 1.0.1
@@ -38,9 +54,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
 Size: 8510
-MD5sum: 79b38b28c06bc7bd751f949275f2b31a
-SHA1: f74962e1bd44158c8a270802e67d3adcc96b3e36
-SHA256: 337c374172a6790769c8fe93884eeda38932c8efa157faa5ffa37302d9fdc4c2
+MD5sum: b6f1803562ab2081fc3070acc04a432b
+SHA1: 4c78f35cb3f7b15d79aca8e28d0c23fc62c6a10c
+SHA256: ff6f4a4d9e9f3c6f7091580db114a877a5852393b4a3e93e6186fbdffbd55146
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
