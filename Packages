@@ -5,10 +5,10 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
-Size: 22148
-MD5sum: 505e99eb31ca07c4645a060c420c9890
-SHA1: e85179a93612b54e501ee40da3d94fe5d990fb8d
-SHA256: f4b313d0f1aaa120c62f3ba1b19b4df43707e3d9674c7f217422c4181ef56902
+Size: 21726
+MD5sum: e35714550544802e705bbf461b05fb33
+SHA1: 9450d5fb3caf522b194db22ad484f626674fed5f
+SHA256: 3308f94205f02854be2e652aaeb176684a93067ab61b81cc06e2ad0b81513012
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
@@ -21,10 +21,10 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.c8statusbar_1.0_iphoneos-arm.deb
-Size: 29412
-MD5sum: ef4c9f2c6e82cad27d693e4952d367d7
-SHA1: 41107ac16d036142d041d20c2c1bb235313485e0
-SHA256: 078f1af0caf0b8f3c6caf0acd8dc278772048bc47a96b8c9d73d05e5dfe1ae6e
+Size: 27962
+MD5sum: 8c825932182d7239cc14052ca2866fed
+SHA1: 451070a07537fc628079bdc3b82600d418e9e432
+SHA256: 6446f23c1a9020aefbfb3bfb737917479e94db1ae6d39df31fee75a58193a3cf
 Section: Themes
 Description: An animated loader of two bouncing balls
 Author: Jacob Warren
@@ -37,10 +37,10 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
-Size: 10068
-MD5sum: 18cfcf722a24125e776bacd632660bff
-SHA1: ba8cd3cf5a740aaecd103bd78bbbb8d95a0dc5e6
-SHA256: 359a0116e635c07e6b2c4f71830d44eff71e87e1e3d17b406b9efeffe53918f6
+Size: 8510
+MD5sum: 79b38b28c06bc7bd751f949275f2b31a
+SHA1: f74962e1bd44158c8a270802e67d3adcc96b3e36
+SHA256: 337c374172a6790769c8fe93884eeda38932c8efa157faa5ffa37302d9fdc4c2
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
