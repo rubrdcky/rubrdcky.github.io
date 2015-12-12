@@ -5,14 +5,30 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
-Size: 22134
-MD5sum: af47633262dd412cc91f7431d9e5dfe2
-SHA1: 7890b38f1b1d01d2bf6ff339336e7b5a02bdfe19
-SHA256: 854f2604d9b883a39adea782c873ca16354b4b7ced51953330b15bef6706fe4b
+Size: 22148
+MD5sum: 505e99eb31ca07c4645a060c420c9890
+SHA1: e85179a93612b54e501ee40da3d94fe5d990fb8d
+SHA256: f4b313d0f1aaa120c62f3ba1b19b4df43707e3d9674c7f217422c4181ef56902
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
 Name: Big Apple Respring Logo
+
+Package: com.rubrdcky.c8statusbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jacob Warren <jwarren4881@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Recommends: winterboard
+Filename: ./debs//com.rubrdcky.c8statusbar_1.0_iphoneos-arm.deb
+Size: 29412
+MD5sum: ef4c9f2c6e82cad27d693e4952d367d7
+SHA1: 41107ac16d036142d041d20c2c1bb235313485e0
+SHA256: 078f1af0caf0b8f3c6caf0acd8dc278772048bc47a96b8c9d73d05e5dfe1ae6e
+Section: Themes
+Description: An animated loader of two bouncing balls
+Author: Jacob Warren
+Name: C8 StatusBar Loader
 
 Package: com.rubrdcky.spacegrayrespring
 Version: 1.0.1
@@ -22,9 +38,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
 Size: 10068
-MD5sum: bafee3bc69dfcaf6408ecc7444e83cd8
-SHA1: f1de41c864a736f8c07e2540e9bb90d10a318d67
-SHA256: 61a10b091e21ef98eb34042a3dfbd4109d5bb139f559379d5fcb516eea77fc78
+MD5sum: 18cfcf722a24125e776bacd632660bff
+SHA1: ba8cd3cf5a740aaecd103bd78bbbb8d95a0dc5e6
+SHA256: 359a0116e635c07e6b2c4f71830d44eff71e87e1e3d17b406b9efeffe53918f6
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
