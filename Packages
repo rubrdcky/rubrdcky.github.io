@@ -6,9 +6,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
 Size: 20274
-MD5sum: b0af659fbb810b9c9c29cd44c1851c90
-SHA1: 0bb51ed12a49741ffa725ca8800b3ec79fcad47f
-SHA256: c94241b233ed0194bac9dc1830a417cc2cd18785d405a3ece189ab9a4ae25bcd
+MD5sum: 73972be1d7d364fbf1fa59bc7825bc35
+SHA1: 8b770c1100f600a0f2dc488c332d84889a3c92e1
+SHA256: 5b62c2062e138f1aad56720d47b20db686df8d897f883377c96a10acff28db85
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
@@ -22,25 +22,25 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.c8statusbar_1.3.3_iphoneos-arm.deb
 Size: 69628
-MD5sum: 461e90e24c95f8b6b9a8c8ba028a8ae2
-SHA1: f08682107ad8532f8282fee14b8ad95f60b58ac6
-SHA256: 7dcb7bb2ed4f857eeda9c26e30a0e474342098d7e7243d55bee30a08fbb687d5
+MD5sum: 92e7b16f5f47284e299da21b23411771
+SHA1: 29bfc623b9ebb0b5d8cf76cd166be13969d92704
+SHA256: d591c46fc31e498761bcf8893de81dc6bfe568e7c3f836135341041efab59d84
 Section: Themes
 Description: An animated loader of two bouncing balls and a nice dot themed statusbar
 Author: Jacob Warren
 Name: C8 StatusBar
 
 Package: com.rubrdcky.circle8
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
-Filename: ./debs//com.rubrdcky.circle8_1.0.3_iphoneos-arm.deb
-Size: 163280
-MD5sum: e41b99438fc54c72a31ecfe34663004a
-SHA1: fda99061a95bf09086f66260f9c15ed762332eaf
-SHA256: a14f78401500eb6dc8b8ea0ba280be964e9f5e80b1af8626067276a686db4f77
+Filename: ./debs//com.rubrdcky.circle8_1.0.4_iphoneos-arm.deb
+Size: 163430
+MD5sum: 98101b5068128a7dc36b398157b9ac98
+SHA1: e7f328a98b06b495ba99e113571525f44400d2ad
+SHA256: 757e625488ded492f75383de58b8cddb09872b7fe54133d0ad5aaa810c1f7483
 Section: Themes
 Description: A Circle 8 Themed battery
 Author: Jacob Warren
@@ -54,9 +54,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
 Size: 8510
-MD5sum: 856e5a0be21d369a5e494ca1e12213a6
-SHA1: 3d08df50361182559718c174f7bf20a637c3ee06
-SHA256: 67c31f5fd59c9884b9e47c5bad247679e9aaadd2c8e93de96072c951fe64bb3a
+MD5sum: 20faedc04fe5e9f755b1a6998c1807d5
+SHA1: b9cf0a8c9d639381b12a7f40c0453270899b7ea6
+SHA256: b96c1d3022a4dc97be414287c14ebf0b90cb821a455d6060dd0e920df03d8277
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren

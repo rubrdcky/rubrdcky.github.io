@@ -1,5 +1,5 @@
 #!/bin/bash
-/Users/Jake/Documents/GitHub/rmdsstore.sh
+./rmdsstore.sh
 ./remove.sh
 ./packages.sh
 ./push.sh
