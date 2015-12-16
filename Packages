@@ -6,9 +6,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
 Size: 20274
-MD5sum: 7ad90f7b1c51c07715d83763fa424983
-SHA1: 9c539f30ac90cd53e525a0faa47cfd5242cbc7c9
-SHA256: 52177ef3ab2498695ae38dabe728f29aeb842bc9a49ba22d33d0d58a7a3e7b48
+MD5sum: 05639812d6a16989a8cc6083dda60cde
+SHA1: 32979b50e4004c76ca1fffb97b1236733925f037
+SHA256: 13748ca31af96b5c90b701acf73b08da0be0ce3ef0a9ae4f0ea694db0058415f
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
@@ -22,45 +22,28 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.c8statusbar_1.3.3_iphoneos-arm.deb
 Size: 69660
-MD5sum: 4827e50badb2e6e9ab7b6587af3afa31
-SHA1: cf6b3d01faf009f814cb8f378137700902c49c38
-SHA256: f1e9e5cef9961e593b0c97e34d9e592c18bbfdf258f033303cca6b9149a75f50
+MD5sum: bfe9fb759dc5e9e1f9a356bd12a346f9
+SHA1: 3569f2f46b9e60cfd74dab05bd17482871553cec
+SHA256: 5f15111d0424540b6917fb34362a1f357be02afb453a0f294696bce760b1ab56
 Section: Themes
 Description: An animated loader of two bouncing balls and a nice dot themed Signal/WiFi Originally created by Andreas Larsen
 Author: Jacob Warren
 Name: C8 StatusBar
 
 Package: com.rubrdcky.circle8
-Version: 2.0.2
+Version: 2.0.3
 Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
-Depends: mobilesubstrate, com.anemonetheming.anemone
-Recommends: winterboard
-Filename: ./debs//com.rubrdcky.circle8_2.0.2_iphoneos-arm.deb
-Size: 135438
-MD5sum: d08132c3ca20716879e489d1f0410333
-SHA1: 8290e556700fb8cd9722a868cd82c2f511030054
-SHA256: 5f5ca49949a62e4ec1a27552b3646f595c79524c622f8b174f7e0af05fc0cb1d
+Depends: com.fortysixandtwo.alkaline
+Filename: ./debs//com.rubrdcky.circle8_2.0.3_iphoneos-arm.deb
+Size: 135410
+MD5sum: 703d49a9c195473d7f2cd95f5b39c33f
+SHA1: 7cd96f3796cb6f1a669b7f122f1265229115f6be
+SHA256: 105002d6210e522a29996c96222414fa17bb97104ac693dbc7db300be81daa83
 Section: Themes
 Description: A Circle 8 Themed battery
 Author: Jacob Warren
 Name: Circle 8 Battery
-
-Package: com.rubrdcky.habesha
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Jacob Warren <jwarren4881@gmail.com>
-Depends: mobilesubstrate, com.anemonetheming.anemone
-Recommends: winterboard
-Filename: ./debs//com.rubrdcky.habesha_1.0_iphoneos-arm.deb
-Size: 538688
-MD5sum: cf81543d8398b063dbce1efb6aa81ff2
-SHA1: 3e3afae6237fd46b0d000d39710a1c66356d2aa3
-SHA256: 9edaab744abe63560abc3a2f8b9be391006b6d5a205ed205b60161792c4e7630
-Section: Themes
-Description: A Habesha themed battery
-Author: Jacob Warren
-Name: Habesha Battery
 
 Package: com.rubrdcky.spacegrayrespring
 Version: 1.0.1
@@ -70,9 +53,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
 Size: 8510
-MD5sum: 20bbddc351690d198502d6736a811248
-SHA1: 15737551d0865a6edd936f48142507b6a10963a7
-SHA256: d477ed9378a17428d5eef1a9e8ec2bc8cc96066d41e00bd2ac58c96ee10fe7ec
+MD5sum: 9da94bcfd84c51878586523473cdfb71
+SHA1: 2d460c2b79255d2ae955d0644fee7b2aefbcc0b1
+SHA256: 34b889d61609c52b47e63888930851c361d1b99429d370d62c13091ea8f213d5
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
