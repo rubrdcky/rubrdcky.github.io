@@ -6,9 +6,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.bigapple_1.0_iphoneos-arm.deb
 Size: 20274
-MD5sum: 411a77b5e26d900861874629d0fc048c
-SHA1: 885cdeda0d0638a520cdb675de59fcc3cc61080e
-SHA256: 8e7260e626f8f82b9d9f2e28693137ef7687345e6e5edd3a40103ee12bf77170
+MD5sum: e67e871bc7867d4018bc3386abd254b2
+SHA1: 2c36221e0030f213598f369a3b67dba207c36368
+SHA256: 18949680354fd51ec85bdfd1ba5adfc95860ee87fd5cacd145514d1786b767d7
 Section: Themes
 Description: A full screen BIG Apple Respring Logo
 Author: Jacob Warren
@@ -22,9 +22,9 @@ Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.c8statusbar_1.0_iphoneos-arm.deb
 Size: 69656
-MD5sum: 42c11aa0fa08f2673295e8f49e823e71
-SHA1: b0e6a61bf04edb552c0752cc4ee4ad32f6c5ce8c
-SHA256: dc0e5610bce2f1292fe067bb5f36a992d3389c11023bb112bbc58e4b3d5241a6
+MD5sum: 38d8935215e7ec27ef55b5b2d3a7d1e6
+SHA1: 9c56d4fd2ef84a961adc58491eb593cc434ac42b
+SHA256: 2e909abf246bc2f898207d63f8cc1babd9b03719515bd6049fbd4cd7a8705b48
 Section: Themes
 Description: An animated loader of two bouncing balls and a nice dot themed Signal/WiFi Originally created by Andreas Larsen
 Author: Jacob Warren
@@ -37,9 +37,9 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: com.fortysixandtwo.alkaline
 Filename: ./debs//com.rubrdcky.circle8_1.0_iphoneos-arm.deb
 Size: 187780
-MD5sum: af7e7d080bd665d8c168d3f91cbd7072
-SHA1: 534ffbc4cc88143600fa9e11ed0514c33c9e9154
-SHA256: 0d13bccd38b100da1853fa980b8a5411f31549a2e959016f0422a01f6fec7ea3
+MD5sum: 9f8893ee7b3009869189c0b0a34ff7c3
+SHA1: c52b72b93640e1906e440f2c93169a9b149a9c9c
+SHA256: e6d0f6781fd0cf0e870a60d49ef1ea4a64c078b20e30ca5b81f97469df5e67fb
 Section: Themes
 Description: A Circle 8 Themed battery for Alkaline! Originally created by Andreas Larsen
 Author: Jacob Warren
@@ -52,23 +52,23 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs//com.rubrdcky.greatmeadow_0.0.1-2_iphoneos-arm.deb
 Size: 17910
-MD5sum: bf30be369d27a47f3a9c6776e7ff1fc0
-SHA1: 541fc7683fcfd5a227657b8e98e6db0dded510b3
-SHA256: 5e801257893b203bcd989ce99ea854cc107bde45966d5cbbee9c241e04c4a2f1
+MD5sum: 7d08e4927b309d22fdfaee6b11546284
+SHA1: 3a2b97ffb1649ed356166119178de4d59d07b844
+SHA256: 8c6bb7ce262aa65537e2738350d63f6cb3fcfe9a122821c67ae0254c2f238542
 Section: Themes
 Description: A simple theme for me to give the Great Meadow FCU webclip a nice icon
 Author: Jacob Warren
 Name: Great Meadow Webclip
 
 Package: com.rubrdcky.sgwatchrespring
-Version: 1.0.1
+Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Jacob Warren <jwarren4881@gmail.com>
-Filename: ./debs//com.rubrdcky.sgwatchrespring_1.0.1_iphoneos-arm.deb
-Size: 3632322
-MD5sum: d9a66f55cd7b92726a3957737384740b
-SHA1: 53a768993c001cbf29cb86b45fe4836832e09152
-SHA256: 4112732242d49a6a60e0bb4f903c52514995ba031f753dce63309c194eefdb2a
+Filename: ./debs//com.rubrdcky.sgwatchrespring_1.0.2_iphoneos-arm.deb
+Size: 5105474
+MD5sum: 4a679c9f994c3e9e227db4cfa88297e0
+SHA1: 4bb4b3889a63731168967c977e165da1704e64be
+SHA256: 3a98b9d79061e85650fa50e335b52fb76a1de4032a82c06e22670caa11092da5
 Section: Themes
 Description: A full screen Space Gray Apple Watch repsring logo for the iPhone 6/6S
 Author: Jacob Warren
@@ -81,10 +81,10 @@ Maintainer: Jacob Warren <jwarren4881@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Recommends: winterboard
 Filename: ./debs//com.rubrdcky.spacegrayrespring_1.0.1_iphoneos-arm.deb
-Size: 8504
-MD5sum: d08fd9d7ee52ae44e741d56046c6dc8b
-SHA1: 0e0718b16696176b345f6e1114aa9ab158ce5dec
-SHA256: 1f2049f03f8f3238c890a07e4f4ecc175736728456ad516107acf1b9e730eca2
+Size: 8502
+MD5sum: 933d1180ce45a0857054a3b989509de3
+SHA1: 363127db3dad00a6fc8887ca3b736c96c8e6ae95
+SHA256: e29e72f952f9419a770faccf89f8e986bcf2377f039fc30a7fc9b77f9745bd41
 Section: Themes
 Description: A full screen Space Gray respring logo
 Author: Jacob Warren
