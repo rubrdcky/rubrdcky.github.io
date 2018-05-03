@@ -6,3 +6,4 @@ dpkg-deb -bZgzip /Users/Jake/Documents/GitHub/Projects/Circle8 debs
 dpkg-deb -bZgzip /Users/Jake/Documents/GitHub/Projects/GreatMeadow debs
 dpkg-deb -bZgzip /Users/Jake/Documents/GitHub/Projects/AWSGRespring debs
 dpkg-deb -bZgzip /Users/Jake/Documents/GitHub/Projects/BinaryKeypad debs
+dpkg-deb -bZgzip /Users/Jake/Documents/GitHub/Projects/HomeGesture debs
